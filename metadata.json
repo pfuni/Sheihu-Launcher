@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Sheihu Launcher",
+  "description": "A high-performance Minecraft launcher with version management and server discovery.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
